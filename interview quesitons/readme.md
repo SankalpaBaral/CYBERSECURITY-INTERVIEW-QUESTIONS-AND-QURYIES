@@ -12,6 +12,7 @@
   - If it is trustworthy, the browser requests to establish an encrypted connection with the web server. 
   - The web server sends the acknowledgment to start an SSL encrypted connection. 
   - SSL communication starts to take place between the browser and the web server.
+- What is a firewall? Mention its uses.
 
 - Explain data leakage.
 - Explain SSL & TLS
